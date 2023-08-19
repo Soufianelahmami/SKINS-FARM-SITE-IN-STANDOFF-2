@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"SKINS FARM SITE IN STANDOFF mod 1","desc":"In the thrilling world of Standoff 2, where every player seeks the perfect loadout to dominate their opponents, the Skins Farm Site plays a crucial role","photo":"https://iili.io/HbCsLmu.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 2","desc":"This guide will take you on a journey through the Skins Farm Site, providing essential information, tips, and strategies to help you maximize your skin collection and elevate your gaming experience.","photo":"https://iili.io/HbCssee.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 3","desc":"Skins are cosmetic items that enhance the appearance of your weapons and equipment in Standoff 2","photo":"https://iili.io/HbCPmjj.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 4","desc":"While they don't affect gameplay directly, they add a unique flair to your weapons and reflect your personal style. Learn about the different skin types, from common to legendary, and understand the rarity and value associated with each.","photo":"https://iili.io/HbCsi79.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 5","desc":"To access the Skins Farm Site, open Standoff 2 and navigate to the "Inventory" section. Here, you'll find your collection of skins","photo":"https://iili.io/HbCsZzb.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 6","desc":"including weapons, gloves, and stickers. Familiarize yourself with the user interface, filters, and sorting options to manage your skins efficiently.","photo":"https://iili.io/HbCstXj.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 7","desc":"In-game Rewards: Participate in matches, complete missions, and earn cases that contain skins as rewards.","photo":"https://iili.io/HbCsDLx.webp"},
+  {"title":"SKINS FARM SITE IN STANDOFF mod 8","desc":"Opening Cases: Spend in-game currency or real money to open cases and potentially unlock rare skins.","photo":"https://iili.io/HbCsmqQ.webp"}
    ]
  
 }
